@@ -1,0 +1,8 @@
+https://github.com/anton-solovev/misis_DA_lessons 
+Дз скидывать в gitHub 
+Как заполнить данные по валюте страны ДЗ
+Пытаться делать без if и использовать только pandas
+
+
+
+Найти nan в currency потом достать те у которых ещё и страна US затем 
